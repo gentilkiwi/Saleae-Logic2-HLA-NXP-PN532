@@ -1,0 +1,13 @@
+{
+  "name": "NXP - PN532 (SPI)",
+  "apiVersion": "1.0.0",
+  "author": "Benjamin Delpy (@gentilkiwi)",
+  "version": "1.0.0",
+  "description": "High Level Analyzer for NXP PN532 NFC chip on SPI bus",
+  "extensions": {
+    "NXP - PN532 (SPI)": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "nxp_pn532.Hla"
+    }
+  }
+}
